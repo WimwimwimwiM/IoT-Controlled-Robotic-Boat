@@ -1,11 +1,11 @@
 # IoT-Controlled Robotic Boat
 
 ## Description
-WIFI_C boat  by C++(Arduino) languages controll by Blynk IoT 
+WIFI_C boat  by C++(Arduino) languages control by Blynk IoT 
 
 ## Features
 - controll by mobile (blynk)
-- Speed controll
+- Speed control
 
 ## How to Use
 1. Clone this repository
