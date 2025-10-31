@@ -1,4 +1,4 @@
-# WIFI_C-boat-with-Blynk
+# IoT-Controlled Robotic Boat
 
 ## Description
 WIFI_C boat  by C++(Arduino) languages controll by Blynk IoT 
